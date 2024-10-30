@@ -1,0 +1,1 @@
+<h2 class="group-title group-title-<?php echo $title_name; ?>"><?php echo self::removeslashes($title_label); ?></h2>

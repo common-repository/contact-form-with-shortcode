@@ -1,0 +1,596 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form With Shortcode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-27 07:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.5.5"
+
+#: includes/class-contact-db-list.php:39 includes/class-subscribers-list.php:20
+msgid "Action"
+msgstr ""
+
+#: includes/class-contact.php:17
+msgid "Add New Contact"
+msgstr ""
+
+#: includes/class-newsletter.php:19
+msgid "Add New Newsletter"
+msgstr ""
+
+#: includes/class-contact.php:15
+msgctxt "add new on admin bar"
+msgid "Contact"
+msgstr ""
+
+#: includes/class-newsletter.php:17
+msgctxt "add new on admin bar"
+msgid "Newsletter"
+msgstr ""
+
+#: includes/class-subscribe.php:15
+msgctxt "add new on admin bar"
+msgid "Subscription"
+msgstr ""
+
+#: includes/class-subscribe.php:17
+msgid "Add New Subscription"
+msgstr ""
+
+#: includes/class-contact-db-list.php:36 includes/class-subscribers-list.php:18
+#: view/admin/subscriber-list-edit-form.php:25
+msgid "Added"
+msgstr ""
+
+#: view/admin/contact-enq-view-form.php:11
+msgid "Added On"
+msgstr ""
+
+#: includes/class-contact.php:14
+msgctxt "admin menu"
+msgid "Contacts"
+msgstr ""
+
+#: includes/class-newsletter.php:16
+msgctxt "admin menu"
+msgid "Newsletters"
+msgstr ""
+
+#: includes/class-subscribe.php:14
+msgctxt "admin menu"
+msgid "Subscription"
+msgstr ""
+
+#: includes/class-contact.php:21
+msgid "All Contacts"
+msgstr ""
+
+#: includes/class-newsletter.php:23
+msgid "All Newsletters"
+msgstr ""
+
+#: includes/class-subscribe.php:21
+msgid "All subscription forms"
+msgstr ""
+
+#: view/admin/contact-enq-view-form.php:35
+msgid "Attachments"
+msgstr ""
+
+#: view/admin/contact-meta-mail-body-fields.php:3
+msgid "Attachments will be automatically attached."
+msgstr ""
+
+#. Author of the plugin
+msgid "aviplugins.com"
+msgstr ""
+
+#: includes/class-contact.php:16
+msgctxt "contact"
+msgid "Add New"
+msgstr ""
+
+#: includes/class-contact-db-list.php:34 view/admin/contact-enq-view-form.php:7
+msgid "Contact Form"
+msgstr ""
+
+#: includes/class-contact-meta.php:19
+msgid "Contact Form Fields"
+msgstr ""
+
+#: view/admin/settings.php:6
+msgid "Contact Form Settings"
+msgstr ""
+
+#: contact-widget.php:9
+msgid "Contact form widget"
+msgstr ""
+
+#. Name of the plugin
+msgid "Contact Form With Shortcode"
+msgstr ""
+
+#: includes/class-contact-db-list.php:35
+msgid "Data"
+msgstr ""
+
+#: includes/class-process.php:18
+msgid "Data deleted successfully."
+msgstr ""
+
+#: includes/class-settings.php:116
+msgid "Data saved successfully"
+msgstr ""
+
+#: includes/class-contact.php:49 includes/class-subscribe.php:49
+msgid "Date"
+msgstr ""
+
+#: view/admin/contact-meta-message-fields.php:3
+msgid "Default : "
+msgstr ""
+
+#: view/admin/settings.php:113
+msgid "Default Subscription Form"
+msgstr ""
+
+#: view/admin/contact-enq-view-form.php:4
+msgid "Details"
+msgstr ""
+
+#: includes/class-contact.php:19
+msgid "Edit Contact"
+msgstr ""
+
+#: includes/class-newsletter.php:21
+msgid "Edit Newsletter"
+msgstr ""
+
+#: includes/class-subscribe.php:19
+msgid "Edit Subscription"
+msgstr ""
+
+#: includes/class-subscribers-list.php:17
+#: view/frontend/subscription-form-fields.php:2
+msgid "Email"
+msgstr ""
+
+#: view/admin/subscribe-meta-form-fields.php:6
+msgid "Email Required"
+msgstr ""
+
+#: view/admin/settings.php:57
+msgid "Enable"
+msgstr ""
+
+#: view/admin/contact-meta-captcha-fields.php:3
+msgid "Enable Captcha Security Code"
+msgstr ""
+
+#: includes/class-fields.php:230
+msgid "Enter security code"
+msgstr ""
+
+#: includes/class-subscription-widget.php:159
+msgid "Error! Subscription mail not sent. Please try again later."
+msgstr ""
+
+#: includes/class-contact-mail.php:60
+msgid "File not uploaded."
+msgstr ""
+
+#: view/admin/subscriber-list-search-form.php:8
+msgid "Filter"
+msgstr ""
+
+#: includes/class-subscribers-list.php:16
+msgid "Form / ID"
+msgstr ""
+
+#: view/admin/contact-enq-view-form.php:19
+msgid "Form Data"
+msgstr ""
+
+#: view/admin/contact-meta-other-fields.php:21
+#: view/admin/newsletter-meta-other-fields.php:15
+msgid "From Mail"
+msgstr ""
+
+#: view/admin/subscribe-meta-other-fields.php:21
+msgid "From Mail (User)"
+msgstr ""
+
+#: view/admin/contact-meta-other-fields.php:15
+#: view/admin/newsletter-meta-other-fields.php:9
+msgid "From Name"
+msgstr ""
+
+#: view/admin/subscribe-meta-other-fields.php:15
+msgid "From Name (User)"
+msgstr ""
+
+#: includes/class-contact-meta.php:47 includes/class-newsletter-meta.php:45
+#: includes/class-subscribe-meta.php:59
+msgid "From Settings"
+msgstr ""
+
+#: view/admin/settings.php:64
+msgid "Host"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/contact-form-with-shortcode/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.aviplugins.com/"
+msgstr ""
+
+#: includes/class-contact-db-list.php:33 includes/class-subscribers-list.php:15
+#: view/admin/subscriber-list-edit-form.php:6
+msgid "ID"
+msgstr ""
+
+#: view/admin/settings.php:79 view/admin/settings.php:86
+msgid "If required"
+msgstr ""
+
+#: view/admin/subscribe-meta-form-fields.php:3
+msgid "Include Email Field"
+msgstr ""
+
+#: view/admin/subscribe-meta-form-fields.php:9
+msgid "Include Name Field"
+msgstr ""
+
+#: includes/class-contact-db-list.php:37
+#: view/admin/contact-enq-view-form.php:15
+#: view/admin/subscriber-list-edit-form.php:21
+msgid "IP"
+msgstr ""
+
+#: includes/class-contact-meta.php:33 includes/class-newsletter-meta.php:31
+msgid "Mail Body"
+msgstr ""
+
+#: includes/class-subscribe-meta.php:45
+msgid "Mail Body Admin"
+msgstr ""
+
+#: view/admin/contact-meta-mail-body-fields.php:3
+msgid "Mail body to Admin"
+msgstr ""
+
+#: view/admin/contact-meta-mail-body-fields.php:10
+msgid "Mail body to User"
+msgstr ""
+
+#: includes/class-subscribe-meta.php:31
+msgid "Mail Body User"
+msgstr ""
+
+#: includes/class-contact-mail.php:108
+msgid "Mail not sent. Please try again later."
+msgstr ""
+
+#: includes/class-contact-meta.php:75
+msgid "Messages"
+msgstr ""
+
+#: view/frontend/subscription-form-fields.php:7
+msgid "Name"
+msgstr ""
+
+#: view/admin/subscribe-meta-form-fields.php:12
+msgid "Name Required"
+msgstr ""
+
+#: includes/class-contact.php:18
+msgid "New Contact"
+msgstr ""
+
+#: includes/class-newsletter.php:20
+msgid "New Newsletter"
+msgstr ""
+
+#: includes/class-subscribe.php:18
+msgid "New Subscription"
+msgstr ""
+
+#: includes/class-newsletter.php:18
+msgctxt "newsletter"
+msgid "Add New"
+msgstr ""
+
+#: includes/class-newsletter-meta.php:17
+msgid "Newsletter Subscribers"
+msgstr ""
+
+#: includes/class-subscription-widget.php:30
+msgid "Newsletter subscription form not selected."
+msgstr ""
+
+#: includes/class-newsletter-meta.php:59
+msgid "Newsletter Template"
+msgstr ""
+
+#: includes/class-newsletter.php:80
+msgid "Newsletter updated. Newsletter mail sent to subscribers."
+msgstr ""
+
+#: includes/class-contact.php:24
+msgid "No contact forms found in Trash."
+msgstr ""
+
+#: includes/class-contact.php:23
+msgid "No contact forms found."
+msgstr ""
+
+#: includes/class-contact-db-list.php:151
+msgid "No data found."
+msgstr ""
+
+#: includes/class-newsletter.php:26
+msgid "No newsletter forms found in Trash."
+msgstr ""
+
+#: includes/class-newsletter.php:25
+msgid "No newsletter forms found."
+msgstr ""
+
+#: includes/class-subscribers-list.php:129
+msgid "No subscribers found."
+msgstr ""
+
+#: includes/class-subscribe.php:24
+msgid "No subscription forms found in Trash."
+msgstr ""
+
+#: includes/class-subscribe.php:23
+msgid "No subscription forms found."
+msgstr ""
+
+#: includes/class-contact-mail.php:26
+#: includes/class-subscription-widget.php:107
+msgid "Nonce error!"
+msgstr ""
+
+#: view/admin/settings.php:85
+msgid "Password"
+msgstr ""
+
+#: view/frontend/contact-widget.php:10 view/frontend/subscription-widget.php:10
+msgid "Please wait.."
+msgstr ""
+
+#: view/admin/settings.php:71
+msgid "Port"
+msgstr ""
+
+#: includes/class-contact.php:12
+msgctxt "post type general name"
+msgid "Contact"
+msgstr ""
+
+#: includes/class-newsletter.php:14
+msgctxt "post type general name"
+msgid "Newsletter"
+msgstr ""
+
+#: includes/class-subscribe.php:12
+msgctxt "post type general name"
+msgid "Subscription"
+msgstr ""
+
+#: includes/class-contact.php:13
+msgctxt "post type singular name"
+msgid "Contact"
+msgstr ""
+
+#: includes/class-newsletter.php:15
+msgctxt "post type singular name"
+msgid "Newsletter"
+msgstr ""
+
+#: includes/class-subscribe.php:13
+msgctxt "post type singular name"
+msgid "Subscription"
+msgstr ""
+
+#: includes/class-fields.php:238
+msgid "Reload Image"
+msgstr ""
+
+#: view/admin/contact-meta-other-fields.php:27
+msgid "Reply To Field"
+msgstr ""
+
+#: view/admin/settings.php:100 view/admin/settings.php:132
+msgid "Save"
+msgstr ""
+
+#: includes/class-contact.php:22
+msgid "Search Contacts"
+msgstr ""
+
+#: includes/class-newsletter.php:24
+msgid "Search Newsletters"
+msgstr ""
+
+#: includes/class-subscribe.php:22
+msgid "Search subscription forms"
+msgstr ""
+
+#: includes/class-fields.php:228
+msgid "Security Code"
+msgstr ""
+
+#: includes/class-contact-mail.php:33
+msgid "Security code do not match!"
+msgstr ""
+
+#: includes/class-contact-meta.php:61
+msgid "Security Settings"
+msgstr ""
+
+#: includes/class-contact.php:48
+msgid "Shortcode"
+msgstr ""
+
+#: view/admin/settings.php:13
+msgid "SMTP"
+msgstr ""
+
+#: view/admin/settings.php:65
+msgid "SMTP host name"
+msgstr ""
+
+#: view/admin/settings.php:92
+msgid "SMTP Secure"
+msgstr ""
+
+#: view/admin/settings.php:54
+msgid "SMTP Setup"
+msgstr ""
+
+#: view/admin/settings.php:93
+msgid "ssl / tls"
+msgstr ""
+
+#: includes/class-contact-db-list.php:38 includes/class-subscribers-list.php:19
+#: view/admin/subscriber-list-edit-form.php:29
+msgid "Status"
+msgstr ""
+
+#: includes/class-process.php:32
+msgid "Status updated successfully."
+msgstr ""
+
+#: includes/class-contact-db-list.php:209
+msgid "Stored Data"
+msgstr ""
+
+#: view/admin/contact-meta-other-fields.php:3
+#: view/admin/newsletter-meta-other-fields.php:3
+#: view/admin/subscribe-meta-other-fields.php:3
+msgid "Subject"
+msgstr ""
+
+#: view/admin/subscriber-list-edit-form.php:39
+#: view/frontend/contact-widget.php:9 view/frontend/subscription-widget.php:9
+msgid "Submit"
+msgstr ""
+
+#: includes/class-subscribe-meta.php:17
+msgid "Subscribe Form Fields"
+msgstr ""
+
+#: subscribe-widget.php:9
+msgid "Subscribe form widget"
+msgstr ""
+
+#: includes/class-process.php:50
+msgid "Subscriber deleted successfully."
+msgstr ""
+
+#: view/admin/subscriber-list-edit-form.php:6
+msgid "Subscriber Edit Details"
+msgstr ""
+
+#: view/admin/subscriber-list-edit-form.php:17
+msgid "Subscriber Email"
+msgstr ""
+
+#: view/admin/subscriber-list-edit-form.php:13
+msgid "Subscriber Name"
+msgstr ""
+
+#: unsubscribe-newsletter.php:11 unsubscribe-newsletter.php:24
+msgid "Subscriber not found!"
+msgstr ""
+
+#: includes/class-process.php:64
+msgid "Subscriber updated successfully"
+msgstr ""
+
+#: view/admin/settings.php:14
+msgid "Subscription"
+msgstr ""
+
+#: includes/class-subscribe.php:16
+msgctxt "Subscription"
+msgid "Add New"
+msgstr ""
+
+#: view/admin/subscriber-list-edit-form.php:9
+msgid "Subscription Form Name"
+msgstr ""
+
+#: view/admin/settings.php:110
+msgid "Subscription Form Settings"
+msgstr ""
+
+#: view/admin/newsletter-meta-other-fields.php:21
+msgid "Test Mail"
+msgstr ""
+
+#: view/admin/settings.php:124
+msgid "Text for Newsletter Subscription Checkbox"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a contact form plugin. You can use widgets and shortcodes to display "
+"contact form in your theme. Unlimited number of dynamic fields can me "
+"created for contact froms."
+msgstr ""
+
+#: includes/class-contact.php:47 includes/class-newsletter.php:49
+#: includes/class-subscribe.php:47
+msgid "Title"
+msgstr ""
+
+#: view/admin/contact-meta-other-fields.php:9
+msgid "To"
+msgstr ""
+
+#: view/admin/subscribe-meta-other-fields.php:9
+msgid "To (Admin)"
+msgstr ""
+
+#: includes/class-contact-mail.php:244
+msgid "Unsubscribe"
+msgstr ""
+
+#: view/admin/settings.php:12 view/admin/settings.php:21
+msgid "Usage"
+msgstr ""
+
+#: view/admin/settings.php:78
+msgid "Username"
+msgstr ""
+
+#: includes/class-contact.php:20
+msgid "View Contact"
+msgstr ""
+
+#: includes/class-newsletter.php:22
+msgid "View Newsletter"
+msgstr ""
+
+#: includes/class-subscribe.php:20
+msgid "View Subscription"
+msgstr ""
+
+#: unsubscribe-newsletter.php:22
+msgid "Your subscription is successfully removed."
+msgstr ""

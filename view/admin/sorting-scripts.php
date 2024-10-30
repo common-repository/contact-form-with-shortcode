@@ -1,0 +1,1 @@
+<script>jQuery(function() {jQuery( "#<?php echo $id; ?>" ).sortable({ handle : ".dragit"});});</script>

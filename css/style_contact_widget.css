@@ -1,0 +1,221 @@
+.cont_error {
+  color: #f4484a;
+  font-weight: 500;
+  width: 100%;
+  padding: 6px;
+  border-left: 4px solid #f4484a;
+  margin: 10px 0px;
+  background-color: #ffe1e2;
+  display: inline-block;
+}
+
+.cont_success {
+  color: #336600;
+  font-weight: 500;
+  width: 100%;
+  padding: 6px;
+  border-left: 4px solid #336600;
+  margin: 10px 0px;
+  background-color: #e2f4db;
+  display: inline-block;
+}
+
+.captcha {
+  margin: 0px 10px 10px 0px;
+  float: left;
+}
+.captcha-refresh {
+  display: inline;
+}
+
+.attend-status {
+  border-top: 1px solid #0073aa;
+  padding-top: 2px;
+  margin-top: 2px;
+}
+.attend-status-details {
+  font-size: 18px;
+}
+.red {
+  color: #a00;
+}
+.green {
+  color: #21b710;
+}
+
+/* replies */
+.replies {
+  background-color: #f1f1f1;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 2px 0px 2px 0px;
+  width: 97%;
+  display: inline-block;
+}
+.reply-date {
+  float: right;
+  font-weight: 100;
+}
+/* replies */
+
+.rw-error {
+  color: #ff0000;
+}
+input.rw-error {
+  border: 1px solid #ff0000 !important;
+}
+textarea.rw-error {
+  border: 1px solid #ff0000 !important;
+}
+
+.con-button-next {
+  border: 1px solid red;
+  width: auto !important;
+}
+
+/* form */
+
+.contact-form-wrap {
+  max-width: 700px;
+  width: 100%;
+  border: 2px solid #f1f1f1;
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+
+.contact-form-wrap .contact-message {
+  width: 100%;
+}
+
+.contact-message-wait {
+  text-align: center;
+}
+
+.contact-form-wrap .contact-fields-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.contact-fields-wrap h2 {
+  margin: 0 !important;
+  width: 100%;
+  font-size: 18px;
+  position: relative;
+  padding-bottom: 8px;
+}
+.contact-fields-wrap h2:after {
+  content: "";
+  width: 30px;
+  height: 4px;
+  position: absolute;
+  background: linear-gradient(to right, rgb(33, 136, 56), rgb(33, 136, 56));
+  bottom: 0;
+  left: 0;
+}
+
+.contact-fields-wrap .contact-fields {
+  margin: 8px 0px 8px 0px;
+  width: 100%;
+}
+
+.contact-fields-wrap .contact-fields .title {
+  font-weight: 500;
+  margin-bottom: 5px;
+  display: inline-block;
+  width: 100%;
+}
+
+.contact-fields label.cbrb {
+  display: inline;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.contact-fields span.description {
+  font-style: italic;
+  font-size: 12px;
+}
+
+.contact-fields input[type="text"],
+.contact-fields select,
+.contact-fields input[type="password"],
+.contact-fields input[type="email"] {
+  height: 45px;
+  width: 100%;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding-left: 15px;
+  transition: all 0.3s ease;
+}
+
+.contact-fields input[type="text"]:focus,
+.contact-fields select:focus,
+.contact-fields input[type="password"]:focus,
+.contact-fields input[type="email"]:focus {
+  border-color: #007bff;
+}
+
+.contact-fields textarea {
+  width: 100%;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 15px;
+  transition: all 0.3s ease;
+}
+
+.contact-fields textarea:focus {
+  border-color: #007bff;
+}
+
+.contact-fields input[type="checkbox"] {
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  transition: all 0.3s ease;
+  margin-right: 5px;
+}
+
+.contact-fields input[type="radio"] {
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  transition: all 0.3s ease;
+  margin-right: 5px;
+}
+
+.contact-submit {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  justify-content: left;
+  margin-top: 20px;
+}
+
+.contact-submit input[type="submit"],
+.contact-submit input[type="button"],
+.contact-submit input[type="reset"] {
+  width: 20%;
+  min-width: 200px;
+  padding: 10px;
+  height: 45px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  font-size: 16px;
+  letter-spacing: 1px;
+  background-color: rgba(40, 167, 69, 1);
+  color: #fff;
+  margin-right: 10px;
+}
+.contact-submit input[type="submit"]:hover,
+.contact-submit input[type="button"]:hover,
+.contact-submit input[type="reset"]:hover {
+  background-color: rgba(33, 136, 56, 1);
+  text-decoration: none;
+}
